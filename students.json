@@ -1,0 +1,34 @@
+[
+  {
+    "name": "mo",
+    "email": "ahmed123@gmail.com",
+    "password": "123",
+    "departmentId": 1,
+    "courseId": 1,
+    "id": 1
+  },
+  {
+    "name": "ahmed",
+    "email": "mo@gmail.com",
+    "password": "123",
+    "departmentId": 1,
+    "courseId": 1,
+    "id": 2
+  },
+  {
+    "name": "ahmed",
+    "email": "moo@gmail.com",
+    "password": "123",
+    "departmentId": 1,
+    "courseId": 1,
+    "id": 3
+  },
+  {
+    "name": "ahmed",
+    "email": "mooo@gmail.com",
+    "password": "123",
+    "departmentId": 1,
+    "courseId": 1,
+    "id": 4
+  }
+]
